@@ -1,1 +1,1 @@
-# 590FinalProject
+For my final project I have chosen to go with Option 3. I will do a summary of the "Huge Memories and distributed databases - Now I remember" session from the Architectural Support for Programming Languages and Operating Systems 2020. After watching the first part of the session, I was highly intrigued and I look forward to sharing the details of this session with the rest of the class.
